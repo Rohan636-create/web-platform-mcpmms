@@ -1,0 +1,13 @@
+.class{
+  height: 50px;
+  border: 1px solid black;
+  display: none;
+}
+@media (max-width:300px ){
+  #box1{
+    display: block;
+    background-color: tomato;
+    color: black;
+    
+  }
+}
